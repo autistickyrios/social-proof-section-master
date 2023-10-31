@@ -190,6 +190,7 @@ h1 {
     height: auto;
   }
   .testimonial-sec {
+    margin-top: -2rem;
     grid-template-columns: 1fr;
     grid-template-rows: repeat(3, 1fr);
   }
